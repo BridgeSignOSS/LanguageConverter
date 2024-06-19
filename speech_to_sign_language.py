@@ -52,7 +52,6 @@ sign_language_map = {
     'Need surgery': 'need_surgery.mp4',
     'Normal': 'normal.mp4',
     'Sign surgical consent': 'sign_surgical_consent.mp4'
-
 }
 
 # 텍스트를 수어 동작으로 변환
