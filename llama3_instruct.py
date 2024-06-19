@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
 # Set your Hugging Face token
-os.environ['HF_TOKEN'] = "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"
+os.environ['HF_TOKEN'] = "hf_huggingface token"
 
 def load_model_and_tokenizer(model_id):
     tokenizer = AutoTokenizer.from_pretrained(model_id)
