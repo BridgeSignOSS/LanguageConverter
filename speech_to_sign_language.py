@@ -37,7 +37,6 @@ sign_language_map = {
     'No fever': 'no_fever.mp4',
     'High fever': 'high_fever.mp4',
     'Name and birthdate': 'name_date.mp4',
-    'Move for injection': 'injection.mp4',
     'Administer anesthesia': 'administer_anesthesia.mp4',
     'After meals': 'after_meals.mp4',
     'Before bed': 'before_bed.mp4',
