@@ -33,7 +33,27 @@ def tokenize_text(text):
 
 # 수어 동작 매핑
 sign_language_map = {
-    'hospital': 'hospital_sign.mp4'
+    'Where does it hurt?': 'hurt.mp4',
+    'No fever': 'no_fever.mp4',
+    'High fever': 'high_fever.mp4',
+    'Name and birthdate': 'name_date.mp4',
+    'Move for injection': 'injection.mp4',
+    'Administer anesthesia': 'administer_anesthesia.mp4',
+    'After meals': 'after_meals.mp4',
+    'Before bed': 'before_bed.mp4',
+    'Before meals': 'before_meals.mp4',
+    'Check blood pressure': 'check_blood_pressure.mp4',
+    'Check temperature': 'check_temperature.mp4',
+    'Evening': 'evening.mp4',
+    'Fine': 'fine.mp4',
+    'Get injection': 'get_injection.mp4',
+    'Headache': 'headache.mp4',
+    'Lunchtime': 'lunchtime.mp4',
+    'Morning': 'morning.mp4',
+    'Need surgery': 'need_surgery.mp4',
+    'Normal': 'normal.mp4',
+    'Sign surgical consent': 'sign_surgical_consent.mp4'
+
 }
 
 # 텍스트를 수어 동작으로 변환
